@@ -2,7 +2,7 @@
 
 # USAGE
 
-```git clone ```
+```git clone https://github.com/Abij1234/ascii-converter.git```
 
 ```cd ascii-converter```
 
